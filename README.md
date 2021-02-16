@@ -1,6 +1,11 @@
 # TotalView
 Cyber Security Intruder view (from the inside), 2 parts of the app: UI(React), Server(Python).
 
+Functionality
+=============
+Webmail access detection.
+Accessed countries
+
 2021.1 functionality planned
 ============================
 Check for access to external web mails:
